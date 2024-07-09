@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B523AC-D7B5-4670-A801-B2163CBC93F6}|..\\NewsArticle.NUnitTest\\NewsArticle.NUnitTest.csproj|d:\\projects\\news\\news_backendapi_project\\newsarticle.nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EDBA1D-35B3-44EC-911B-A2F980AC0ADD}|NewsArticlesProject.csproj|d:\\projects\\news\\news_backendapi_project\\newsproject\\repository\\service\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EDBA1D-35B3-44EC-911B-A2F980AC0ADD}|NewsArticlesProject.csproj|solutionrelative:repository\\service\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EDBA1D-35B3-44EC-911B-A2F980AC0ADD}|NewsArticlesProject.csproj|d:\\projects\\news\\news_backendapi_project\\newsproject\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EDBA1D-35B3-44EC-911B-A2F980AC0ADD}|NewsArticlesProject.csproj|solutionrelative:controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsProject\\Repository\\Service\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "Repository\\Service\\NewsArticleService.cs",
+              "ToolTip": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsProject\\Repository\\Service\\NewsArticleService.cs",
+              "RelativeToolTip": "Repository\\Service\\NewsArticleService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:47:37.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsProject\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsArticleController.cs",
+              "ToolTip": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsProject\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "Controllers\\NewsArticleController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:40:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsArticle.NUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NewsArticle.NUnitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\News\\News_BackEndAPI_Project\\NewsArticle.NUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NewsArticle.NUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:34:45.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
